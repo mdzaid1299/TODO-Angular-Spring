@@ -1,8 +1,5 @@
 
-
-<table align="center">
-E:\project files\projects\TODO-Angular-Spring\to-do-list-v2\src\assets\logo\Untitled design.png
-</table>
+![logofavicon](https://user-images.githubusercontent.com/105915677/215879268-23aa9037-6813-4d26-8447-5e5207990e4b.png)
 
 Get organized and stay on track with [dodeck.io](). - the ultimate task and to-do list manager. Our app is designed to help you prioritize tasks, Build with angular and spring boot.
 
