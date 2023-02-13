@@ -22,21 +22,7 @@ Please adhere to this project's `code of conduct`.
 [doDeck.io (1).webm](https://user-images.githubusercontent.com/105915677/215877020-e2f61571-14dc-4510-b27c-c89a2078282b.webm)
 
 
-
-
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
 
 Install dependencies
 
